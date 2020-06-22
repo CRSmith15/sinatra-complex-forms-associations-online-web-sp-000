@@ -1,1 +1,1 @@
-class DeletePetsTabel <
+class DeletePetsTabel < ActiveRecord::Migration
